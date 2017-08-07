@@ -1,0 +1,4 @@
+-r base.txt
+
+selenium==3.4.3
+coverage

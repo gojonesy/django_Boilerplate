@@ -1,0 +1,7 @@
+db.sqlite3
+__pycache__
+django_boilerplate.sublime-workspace
+geckodriver.log
+.coverage
+htmlcov
+django_boilerplate/fixtures
