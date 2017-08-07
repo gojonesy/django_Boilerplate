@@ -51,9 +51,9 @@ Install Django
 Start a Django Project using this template
 ------------------------------------------
 
-    django-admin.py startproject --template=https://gojonesy@bitbucket.org/gojonesy/django_boilerplate/ --extension py,md,rst,txt project_name .
+    django-admin.py startproject --template=https://github.com/gojonesy/django_boilerplate/zipball/master --extension py,md,rst,txt project_name .
 
-    
+
 Secret Django Key
 -----------------
 
