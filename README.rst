@@ -181,7 +181,7 @@ Open a command prompt: ::
 
     > pip install psycopg2
 
-Edit the ENV activate.bat files and add:
+Edit the ENV activate.bat files and add: ::
 
     set DATABASE_NAME=<project_name>_db
     set DATABASE_USER=<project_name>_user
