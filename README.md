@@ -16,7 +16,7 @@ Some Functionality:
   
 This is all based upon the fantastic **step by step** [taskbuster tutorial](http://marinamele.com/taskbuster-django-tutorial) . 
 
-To setup and start using, first look at :doc:`requirements` and then check out the :doc:`quick_start` .
+To setup and start using, first look at requirements and then check out the quick_start .
 
 
 
@@ -30,12 +30,7 @@ Necessary requirements for this Django Project Boilerplate are:
 - **Firefox** (to use Selenium's Webdriver in functional tests)
   
 
-Download Firefox from the official website: |firefox_web| .
-
-.. |firefox_web| raw:: html
-
-    <a href="https://www.mozilla.org" target="_blank">Firefox</a>
-
+Download Firefox from the official [website](https://www.mozilla.org) . 
 
 
 Quick start
@@ -51,11 +46,7 @@ Secret Django Key
 
 There is no **SECRET_KEY** setting in any of the settings files.
 
-You can generate a SECRET_KEY |secret_key| .
-
-.. |secret_key| raw:: html
-
-    <a href="http://www.miniwebtool.com/django-secret-key-generator" target="_blank">here</a>
+You can generate a [SECRET_KEY](http://www.miniwebtool.com/django-secret-key-generator) .
 
 
 Project Name
@@ -84,13 +75,8 @@ Add the lines: ::
     SET DJANGO_SETTINGS_MODULE=<project_name>.settings.dev
     SET SECRET_KEY="your_secret_key"
 
-To generate a SECRET_KEY:
+Generate a [SECRET_KEY](http://www.miniwebtool.com/django-secret-key-generator)
 
-.. |SECRET_KEY| raw:: html
-    
-    <a href="http://www.miniwebtool.com/django-secret-key-generator"
-    target="_blank">SECRET_KEY</a>
- 
 
 And then in the deactivate.bat file: ::
     
@@ -118,25 +104,11 @@ Now, install all packages that you have setup in your requirements in each envir
 Static Files
 ------------
 
-Download the latest HMTL5 Boilerplate_ .
+Download the latest [HMTL5 Boilerplate](https://html5boilerplate.com/)
 
-.. _Boilerplate raw:: html
+Download the latest [Bootstrap](http://getbootstrap.com/getting-started/#download).
 
-        <a href="https://html5boilerplate.com/" target="_blank">here</a>
-
-
-Download the latest Bootstrap |bootstrap| .
-
-.. |bootstrap| raw:: html
-
-        <a href="http://getbootstrap.com/getting-started/#download" target="_blank">here</a>
-
-Download Compressed Jquery |jquery| .
-    
-.. |jquery| raw:: html
-
-    <a href="http://jquery.com/download/" target="_blank">here</a>
-
+Download Compressed [Jquery](http://jquery.com/download/).
 
 Move templates around::
     
@@ -152,9 +124,7 @@ Move all other downloaded files to Static::
 Install and configure PostgreSQL
 --------------------------------
     
-Download PostgreSQL_.
-
-.. _PostgreSQL: https://www.postgresql.org/download/windows/
+Download [PostgreSQL](https://www.postgresql.org/download/windows/).
 
 
 After it is installed, add it to the system path: ::

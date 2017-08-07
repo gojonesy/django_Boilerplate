@@ -122,9 +122,9 @@ Now, install all packages that you have setup in your requirements in each envir
 Static Files
 ------------
 
-Download the latest HMTL5 Boilerplate |html5| .
+Download the latest HMTL5 Boilerplate_ .
 
-.. |html5| raw:: html
+.. _Boilerplate raw:: html
 
         <a href="https://html5boilerplate.com/" target="_blank">here</a>
 
