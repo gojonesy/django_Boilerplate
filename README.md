@@ -36,11 +36,24 @@ Download Firefox from the official [website](https://www.mozilla.org) .
 Quick start
 ===========
 
-Download the project boilerplate from Github
----------------------------------------------
-<github link>
+Create a Development Environment
+--------------------------------
+
+    mkvirtualenv <project_name>_dev
 
 
+Install Django
+--------------
+
+    pip install django
+
+
+Start a Django Project using this template
+------------------------------------------
+
+    django-admin.py startproject --template=https://gojonesy@bitbucket.org/gojonesy/django_boilerplate/ --extension py,md,rst,txt project_name .
+
+    
 Secret Django Key
 -----------------
 
