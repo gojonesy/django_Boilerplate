@@ -156,9 +156,9 @@ Move all other downloaded files to Static::
 Install and configure PostgreSQL
 --------------------------------
     
-Download |PostgreSQL|.
+Download |psql|.
 
-.. |PostgreSQL| raw:: html
+.. |psql| raw:: html
 
     <a href="https://www.postgresql.org/download/windows/" target="_blank">PostgreSQL</a>
 
